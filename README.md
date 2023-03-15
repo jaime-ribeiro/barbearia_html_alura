@@ -1,2 +1,2 @@
-# barbearia_html_alura
-Curso de HTML Alura
+# Curso de HTML Alura
+
